@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">The Shameless Self-promo App</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_number">Contact number</string>
+    <string name="my_display_name">My display name</string>
+    <string name="include_junior">Include \'Junior</string>
+    <string name="immediate_start">Immediate start</string>
+    <string name="available_from_date">Available from date</string>
+    <string name="preview_message">Preview Message</string>
+    <string name="send_message">Send Message</string>
+    <string name="manually_set_message">We are manually setting some text in our TextView just so we can see something!</string>
+</resources>
